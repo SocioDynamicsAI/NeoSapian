@@ -1,0 +1,1 @@
+Contributor Covenant 2.1 placeholder
