@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_out/
+
+# PyTorch / Model checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+runs/
+lightning_logs/
+output/
+logs/
+
+# Build / Packaging
+build/
+dist/
+*.egg
+*.egg-info
+*.manifest
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+tmp/
+temp/
+*.log
+
+# Data and cache
+data/cache/
+.cache/
+datasets/
