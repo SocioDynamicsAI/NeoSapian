@@ -1,1 +1,1 @@
-print('Training pipeline placeholder')
+python src/training/train.py
